@@ -24,7 +24,8 @@ jobs:
       # Override language selection by uncommenting this and choosing your languages
       # with:
       #   languages: go, javascript, csharp, python, cpp, java
-      languages: cpp
+        with:
+          languages: cpp
 
 
     # Autobuild attempts to build any compiled languages  (C/C++, C#, or Java).
