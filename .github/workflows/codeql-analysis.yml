@@ -25,7 +25,7 @@ jobs:
       # with:
       #   languages: go, javascript, csharp, python, cpp, java
         with:
-          languages: cpp
+        languages: cpp
 
 
     # Autobuild attempts to build any compiled languages  (C/C++, C#, or Java).
