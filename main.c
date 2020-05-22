@@ -23,6 +23,7 @@ void branchingFactor()
    */
    // This line can allocate too little memory if factor
    // is very large.
+   // extra comment
    char **root_node = (char **) malloc(factor * sizeof(char *));
 }
 
